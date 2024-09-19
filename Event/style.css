@@ -1,0 +1,8 @@
+div {
+    background-color: azure;
+    color: black;
+    border: 3px solid black;
+    height: 20vh;
+    width: 30vw;
+    text-align: center;
+}
